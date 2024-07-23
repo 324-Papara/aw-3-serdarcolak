@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oEFjGzXfSEvXV0VSPr0KNgKiZ/Htp6VfL6ZSxlirOcSOHNXj1rbgoAC5A7ifHNwleBP1i0CNsvA5NPFML3CJ/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serdar.colak\\RiderProjects\\Para.Api\\Para.Schema\\Para.Schema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serdar.colak\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\serdar.colak\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\serdar.colak\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\serdar.colak\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\serdar.colak\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\serdar.colak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\serdar.colak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
